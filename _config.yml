@@ -1,4 +1,4 @@
-name: dronerus
+name: "drone R'us"
 favicon: null
 layout_spectrum: 0.99503
 typography_spectrum: 1
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#fffbef'
+    - '#010101'
+    - '#e43d2b'
+    - '#c6b36f'
+    - '#686147'
   brandStrength: 0.741428917972371
   lightness: 0.029713054420426488
-  saturation: 0.8547793687321246
+  saturation: 0.375
   rhythmicContrast: 0.45440604304894805
 purpose: []
