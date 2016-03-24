@@ -2,6 +2,7 @@ name: dronerus
 favicon: null
 layout_spectrum: 0.99503
 typography_spectrum: 1
+title: "drone R'us"
 cta:
   domain: null
   bucket: null
