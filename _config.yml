@@ -1,6 +1,6 @@
 name: "drone R'us"
 favicon: null
-layout_spectrum: 0.73857
+layout_spectrum: 0.95129
 typography_spectrum: 1
 title: "drone R'us"
 cta:
@@ -24,6 +24,6 @@ color:
     - '#686147'
   brandStrength: 0
   lightness: 0.029713054420426488
-  saturation: 0.375
+  saturation: 1
   rhythmicContrast: 0.45440604304894805
 purpose: []
